@@ -12,7 +12,7 @@
       "predeploy": "npm run build",
       "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://github.com/skidologic/task-harmony-boards",
+  "homepage": "https://skidologic.github.io/task-harmony-boards",
   "dependencies": {
       "@hookform/resolvers": "^3.9.0",
       "@radix-ui/react-accordion": "^1.2.0",
